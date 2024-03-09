@@ -5,6 +5,5 @@
 This is my personal repository regarding the exercises I have developed during my stay at the
 'Cybersecurity Program' in Jan 2024 at 42 Madrid - Telefonica Foundation 💪
 
-<h3 align="left">for more details visit: https://42.fr/en/admissions/42-piscine/</h3>
 <h1 align="left">
 </h1>
